@@ -1,0 +1,56 @@
+.main {
+    display: flex;
+    gap: 15px;
+    background: #FFF;
+    max-width: 1820px;
+    max-height: 3067px;
+    margin: 40px 100px;
+}
+.shape-1 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    background-image: url("Flower Asset/pngwing\ 6.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* display: block; */
+
+}
+.shape-2 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    background-image: url("Flower Asset/pngwing\ 5.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* display: block; */
+
+}
+.shape-3 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    background-image: url("Flower Asset/pngwing\ 7.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* display: block; */
+
+}
+/* .shape-title {
+    display: block;
+    
+}
+.flower-name {
+    text-align: left;
+    margin-left: 0px;
+} */
+.title {
+    text-align: center;
+    text-decoration: underline;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+}

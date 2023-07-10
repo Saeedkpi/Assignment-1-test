@@ -1,4 +1,55 @@
+body {
+    margin: 0px;
+
+}
 header {
     display: flex;
     justify-content: center;
+    background: rgba(229, 84, 115, 0.10);
+    max-width: 1920px;
+    max-height: 850px;
+    /* flex-shrink: 0; */
+    align-items: center;
+    /* margin: 20px; */
+    /* padding: ; */
+}
+.header-title-info-container {
+    margin: 50px 40px 40px 60px;
+    padding: 100px;
+    /* text-align: ; */
+    /* margin-bottom: 50px; */
+    display: block;
+}
+.header-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    /* margin-bottom: 10px; */
+}
+.header-descriptin {
+    color: rgba(39, 39, 39, 0.60);
+    /* font-family: Lato; */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: 30px;  */
+}
+.btn {
+    color: #FFF;
+    /* font-family: Lato; */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    /* line-height: normal; */
+}
+.greeting-photo {
+    width: 620px;
+    height: 750px;
+
 }
