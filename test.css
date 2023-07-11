@@ -54,3 +54,19 @@
     font-size: 24px;
     font-weight: 700;
 }
+.shape-title {
+    color: #272727;
+    text-align: center;
+    /* font-family: Lato; */
+    font-size: 40px;
+    /* font-style: normal; */
+    font-weight: 800;
+    /* line-height: normal; */
+}
+.shape-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
