@@ -70,3 +70,43 @@
     font-style: normal;
     font-weight: 400;
 }
+/* Shape section with title-description complete */
+/* Now Start sign up with title description & photo. Ok */
+.sign-up-section-container {
+    max-width: 1920px;
+    max-height: 610px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.sign-up-title {
+    color: #272727;
+    /* font-family: Lato; */
+    font-size: 40px;
+    /* font-style: normal; */
+    font-weight: 800;
+    /* line-height: normal; */
+}
+.sign-up-section-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    padding-top: 80px;
+
+}
+.sign-up-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+/* text-align: center; */
+    font-family: Lato;
+    font-size: 18px;
+/* font-style: normal; */
+    font-weight: 400;
+/* line-height: 30px; */
+}
+.sign-title-details-btn {
+    text-align: center;
+    margin: 0px 15px;
+    /* padding: 20px; */
+    padding-top: 25px;
+}
+/* Sign-up-section complete  */
