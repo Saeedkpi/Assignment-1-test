@@ -145,3 +145,19 @@
     /* flex-shrink: 0; */
 }
 /* Instagram - section work maximum complete  */
+.contact-section {
+    margin: 128px 220px;
+    margin-right: 220px;
+    /* max-width: 1910px;
+    max-height: 3066px; */
+    width: 1430px;
+    height: 440px;
+    border-radius: 8px;
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.contact-form {
+    
+}
